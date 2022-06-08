@@ -10,13 +10,17 @@ body {
     display: flex;
     flex-direction: column;
     padding: 20px 100px 100px 100px;
+    align-items: center;
 }
+
+/* header section */
 
 .header {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     color: white;
     margin-bottom: 100px;
+    width: 1000px;
 }
 
 .header-title{
@@ -38,9 +42,12 @@ a {
     font-weight: 150;
 }
 
+/* content section */
+
 .content {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+    width: 1000px;
 }
 
 .title {
