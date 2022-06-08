@@ -142,3 +142,39 @@ a {
     font-weight: bold;
     margin-left: 500px;
 }
+
+/* sign up section */
+
+.signup {
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    background-color: #3882f6;
+    padding: 50px 80px;
+    border-radius: 8px;
+    width: 800px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.signup-title {
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.signup-button {
+    background-color: #3882f6;
+    padding: 8px 30px;
+    text-align: center;
+    color: white;
+    border: 2px solid white;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+/* footer section */
